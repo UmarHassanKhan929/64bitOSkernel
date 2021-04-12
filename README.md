@@ -1,5 +1,5 @@
 # 64 bit OS kernel
-Basic implementation of 64bit OS kernel for learning purpose 
+Basic implementation of 64bit OS kernel for learning purpose  
 Reference: <https://github.com/davidcallanan/os-series>
 
 ## Tools Required
